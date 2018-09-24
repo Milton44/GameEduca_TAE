@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovimentPlataform
+  - Letra
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ignore Player
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1750729497
+    locked: 0
+  - name: objects
+    uniqueID: 2891333823
+    locked: 0
+  - name: player
+    uniqueID: 1065301829
+    locked: 0
+  - name: water
+    uniqueID: 1962653335
+    locked: 0
+  - name: UI
+    uniqueID: 3718008661
+    locked: 0
